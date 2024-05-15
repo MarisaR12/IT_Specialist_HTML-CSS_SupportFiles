@@ -8,5 +8,8 @@ p {
 }
 .sale {
     font-weight:bold;
-    background-color:aqua;
+    background-color:#B6DBE4;
+}
+#sidenote{
+    background-color:#dbd9d9;
 }
