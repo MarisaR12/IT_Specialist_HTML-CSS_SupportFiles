@@ -4,7 +4,7 @@
     background-color:#fab66b;
 }
 p {
-    color: navy;
+    color: #000080;
 }
 a {
     text-decoration:none;
@@ -19,4 +19,9 @@ a:hover {
 }
 #sidenote {
     background-color:#dbd9d9;
+}
+figcaption{
+    font-weight:bold;
+    background-color:aqua;
+    color:#000080;
 }
