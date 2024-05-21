@@ -24,8 +24,13 @@ figcaption {
     font-weight:bold;
 }
 #sidenote {
-    background-color: #DDDDDD;
+    background-color: #333333;
     display:inline;
+    color:#f7d2aa;
+}
+#pagewidth{
+    width:500px;
+    
 }
 a {
     text-decoration: none;
