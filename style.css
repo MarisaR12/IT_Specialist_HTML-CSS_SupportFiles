@@ -5,3 +5,13 @@ ul{
   overflow:hidden;
   background-color:#FEEAFC;
 }
+
+li{
+  float:left;
+}
+li a, .dropBtn{
+  display:inline-block;
+  color:black;
+  text-align:center;
+  padding:12px 14px;
+}
