@@ -15,3 +15,9 @@ li a, .dropBtn{
   text-align:center;
   padding:12px 14px;
 }
+li a:hover,.dropDown:hover .dropBtn{
+  background-color:#F1DCFF
+}
+li.dropDown{
+  display:inline-block;
+}
