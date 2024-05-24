@@ -35,7 +35,7 @@ position:absolute;
   text-align:left;
 }
 .dropDown-content a:hover{
-  background-color:##c185bf;
+  background-color:#c185bf;
   color:black;
 }
 .dropDown:hover .dropDown-content{
