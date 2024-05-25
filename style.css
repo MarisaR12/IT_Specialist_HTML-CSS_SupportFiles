@@ -76,3 +76,13 @@ background-color: #b488b0;
   margin-top:10px;
   font-family:Madimi one;
 }
+
+#domain{
+  text-align: center;
+}
+.domainHeading{
+  text-align: left;
+}
+#description{
+  text-align: left;
+}
