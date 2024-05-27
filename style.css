@@ -5,18 +5,14 @@ ul{
   overflow:hidden;
   background-color:#c997c4;
 }
-
 li{
   float:left;
 }
-
 li a, .dropBtn{
   display:inline-block;
   color:black;
   padding:12px 14px;
-  
 }
-
 li a:hover,.dropDown:hover .dropBtn{
   background-color:#c27abb;
   color:white;
@@ -24,7 +20,6 @@ li a:hover,.dropDown:hover .dropBtn{
 li.dropDown{
   display:inline-block;
 }
-
 .dropDown-content{
 display:none;
 position:absolute;
@@ -33,25 +28,20 @@ position:absolute;
   box-shadow:0px 8px 16px 0px rgba(1,0,1,0.3);
   z-index:1;
 }
-
 .dropDown-content a{
   color:black;
   display:block;
   text-align:left;
   font-size:1.1em;
-  background-color:#f0c6ec;
 }
-
 .dropDown-content a:hover{
   background-color:#c185bf;
   color:white;
   font-size: 1.1em;
 }
-
 .dropDown:hover .dropDown-content{
   display:block;
 }
-
 body{
 background-color: #b488b0;
 }
@@ -62,12 +52,11 @@ background-color: #b488b0;
 .left{
   background-color:#ffffff;
   float:left;
-  width:20%;
+  width:27%;
   padding:10px;
   margin-top:10px;
   font-family:Madimi one;
 }
-
 .right{
   background-color:white;
   float:right;
@@ -76,13 +65,29 @@ background-color: #b488b0;
   margin-top:10px;
   font-family:Madimi one;
 }
-
 #domain{
   text-align: center;
+  font-size: 1.11em;
 }
 .domainHeading{
   text-align: left;
 }
 #description{
   text-align: left;
+}
+#resource{
+  color:#a683be;
+  font-size: 1.4em;
+}
+#resource:hover{
+  color:black;
+}
+#resource:visited{
+  color:#d288d3;
+}
+#linkLeft{
+  float: left;
+}
+#linkRight{
+  float: right;
 }
